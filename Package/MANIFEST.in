@@ -1,0 +1,3 @@
+include liquid/doc/README.mdown
+include liquid/linquid_config.yaml
+graft liquid/test

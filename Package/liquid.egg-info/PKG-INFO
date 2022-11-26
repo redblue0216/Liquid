@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: liquid
+Version: 0.1
+Summary: Liquid is a pipeline tool based on pluggy hook technology, which is mainly used for rapid construction of data science applications.
+Author: shihua
+Author-email: hua.shi@meritech-data.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.9.12
+
+UNKNOWN
+
